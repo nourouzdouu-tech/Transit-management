@@ -90,25 +90,7 @@ Exécuter les tests PHPUnit :
 php artisan test
 ```
 
-## Contribution
-
-Contribuez via des Pull Requests :
-
-1. Forkez le dépôt
-2. Créez une branche `feature/xxx`
-3. Commitez vos changements
-4. Ouvrez une Pull Request
-
-Ajouter aussi un `CONTRIBUTING.md` si vous voulez préciser des règles (format de commit, tests obligatoires, etc.).
-
-## Licence
-
-Ajoutez un fichier `LICENSE` pour définir la licence du projet (ex : MIT).
 
 ## Contact
 
-Ouvrez une issue pour signaler un bug ou demander une fonctionnalité.
-
----
-
-Souhaitez-vous que j'ajoute également un `LICENSE` (MIT) et un `CONTRIBUTING.md` exemple ?
+Email: nour.ouzdouu@gmail.com
